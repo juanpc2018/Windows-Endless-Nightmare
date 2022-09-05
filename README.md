@@ -1,7 +1,7 @@
 # Windows-Endless-Nightmare </p>
 
 Problem #1. VMware </br>
-There are 2 host versions, ESXi is for "Native/No HostOS" like Proxmox, </br>
+There are 2 host versions, ESXi is for "Native/No HostOS" like Proxmox, or bcdboot.</br>
 VMware Fusion Player 12.1.2 for OSX Catalina </br>
 VMware Workstation Player 12 for Windows. </p>
 
