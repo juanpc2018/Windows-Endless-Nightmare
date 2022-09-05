@@ -129,6 +129,9 @@ reveals if the Activated License is RETAIL or OEM. </br>
 if you have OEM. </p>
 
 if you have RETAIL, the Nightmare Continues. </p>
+if you have OEM, you need the perfect installer .iso  </br>
+usually old machines like HP Stream 7 requires a OEM iso with Bing </br>
+that iso does Not have the Upgrade problem of the Retail ISO </p>
 
 RETAIL comes with a CARD, and the Activation Printed. </br>
 IF you have multiple PCs with RETAIL version,  </br>
