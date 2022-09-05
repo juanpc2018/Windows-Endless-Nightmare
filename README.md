@@ -208,5 +208,9 @@ cmd </br>
 
 ![slmgr help vol3](https://user-images.githubusercontent.com/33388902/188486465-91e2f5d9-df87-4714-81ed-11f19b27e302.PNG)
 
+# slmgr /upk </br>
+![image](https://user-images.githubusercontent.com/33388902/188495677-9d7277d7-5d66-4527-a76c-b60606aa40f8.png)
+
+
 ![0-cmd](https://user-images.githubusercontent.com/33388902/188486542-29e74ce8-aaf9-4450-9658-7c46e34ce4af.PNG)
 
