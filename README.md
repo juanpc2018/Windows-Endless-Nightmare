@@ -1,11 +1,12 @@
 # Windows-Endless-Nightmare </p>
 
 Problem #1. VMware </br>
-There are 2 host versions, ESXi is for "Native/No HostOS" like Proxmox: </br>
-Fusion Player 12.1.2 for OSX Catalina </br>
-Workstation Player 12 for Windows. </p>
+There are 2 host versions, ESXi is for "Native/No HostOS" like Proxmox, </br>
+VMware Fusion Player 12.1.2 for OSX Catalina </br>
+VMware Workstation Player 12 for Windows. </p>
 
-VMware installs some tools v11 that cannot be uninstalled. </p>
+VMware installs tools & drivers v11 that cannot be uninstalled.  </br>
+similar to bootcamp drivers. </p>
 
 Problem #2.  </br>
 if you have a MacPro4,1/5,1 2009/2010=2012 </br>
