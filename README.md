@@ -191,11 +191,12 @@ if you have an HDD formatter with EXT4v2 Linux >16,  </br>
 to see Ext4v2 in Windows there are 2 options: </br>
 Free: </br>
 http://www.acc.umu.se/~bosse/ </br>
-and Payd: PAragon Linux Drivers for Windows. </p>
+Payd: Paragon Linux Drivers for Windows. </p>
 
-if you try to see Ext4v1 hdd with EXT2FSB v0.69 will Damage the Ext4v2, </br>
+if you try to see Ext4v2 hdd with EXT2FSB v0.69 will Damage the Ext4v2, </br>
 wont be Readable in Newer like Linux 20.10 etc... </br>
-Repairing that is antoher Nightmare. </p>
+Repairing that is antoher Nightmare. </br>
+Ext2Fsb v0.69 works with Ext4v1 Linux 10.10 era. </p>
 
 here are some Screnshots of: </br>
 cmd </br>
