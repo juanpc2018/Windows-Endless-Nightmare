@@ -97,9 +97,11 @@ you can run /UEFI in old BIOS machines with DUET Bootloader, but is Not 100% eff
 if you have an older machione or Mac /f BIOS </br>
 if you move windows to a New Machione, Needs Boot mode Legacy to boot BIOS, </br>
 or create bcdboot again with /f UEFI  </p>
+you can create /f ALL and manually Rename the EFI dir to something else, and will boot BIOS. </br>
+you can manually Rename the hidden bios files, leave EFI folder, and will Boot UEFI. </br>
+but Not at the same time.  </p>
 
-you mey also need other: </br>
-bcdboot commands, like:
+also may need other bcdboot commands, like:  </br>
 bcdboot fixmbr </p>
 
 After all that, Windows will Boot again,
