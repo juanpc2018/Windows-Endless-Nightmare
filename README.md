@@ -118,13 +118,15 @@ sfc /scannow also does Not work, will finish Ok No error. </p>
 Windows Jail </p>
 
 IF Windows is Retail version... </br>
-Allows to Move the hdd and reactivate  </br>
-or Transfer the license to a clean isntall </br>
-if its OEM, is machine locked, 
+Allows to Move the hdd to other machine and Reactivate </br>
+but Not WTG WindowsToGo using USB3.0 that needs Enterprise Not Pro licence. </br>
+Pro also allows to Deactivate & Transfer / Reactivate the license to a clean isntall. </br>
+if its OEM license, is machine locked, </br>
 you need to buy a New License if you move windows to another machine. </p>
 but can be reinstalled in the same machine, if hardware does Not change. </p>
 most OEM keys are in the UEFI of Newer machines since 2013 </br>
-older machines with BIOS only, keys are in a paper outside. </p>
+older machines with BIOS only, keys are in a paper outside. </br>
+some purchased OEM come in a White Envelope. </p>
 
 cmd </br>
 slmgr -dli "will reveal your future." </p>
