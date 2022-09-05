@@ -41,31 +41,33 @@ it will clean the HDD, delete everything, like a spy movie. </p>
 problem is, it will delete also the Windows Activation Keys, </br>
 and important Files. </p>
 
-if you did the steps in wrong order, or forgot something  </br>
-you need Minitoold Partition Recovery software </br>
+if you did that, or forgot something  </br>
+you need Minitool Partition Recovery software </br>
 will take a lot of time scanning the HDD,  </br>
 but when scanned, recovery the Lost partitions is fast. </br>
 problem is that if your HDD was used for something else in the past </br>
-is will detect also those, </br>
-and if you revover the New HDD PArtition,
-will be Flagged as LBA, Extended Partition.
+will also detect those, </br>
+and if you recover the New HDD Partition,  </br> 
+will be Flagged as LBA, Extended Partition. </br>
 and Windows wont boot. </br>
 you need to download Gparted Live USB </br>
 copy the Recovered Partitions to another Drive, </br>
-the 350-500MB bcd partition, </br>
-and the large Primary Partition,  </br>
-delete the old HDD,  </br>
-and copy back as Primary partitions.  </br>
-can also be done shrinling the partitions, but it tales a lot more time "days". </br>
-Windows Remembers the HDD it was installed, and Wont boot if you change HDD. </br>
+also the 350MB Fat32 bcd partition, </br>
+veryfiry if your old HDD is MBR or GPT before deleting. </br>
+delete the old HDD, including Tables </br>
+create a New MBR or GPT, MBR if Windows8.1 was installed in a Bios Machine. </br>
+copy back the partitions, as Primary. </br>
+can also be done shrinking the partitions and copy the partition on it self, </br>
+but it tales a lot more time. </br>
+Windows Remembers the HDD it was installed, and Wont boot Activated if you change HDD. </br>
 Activation Keys will be Deactivated.  </br>
-thats why you need the Original HDD it was installed. </br>
-Gparted will copy UUID, and windows will boot again. </br>
-Windows verify Partition UUID, HDD Brand & Serial Number.  </br>
-but is Not as easu... </br>
+thats why you need the old HDD it was installed. </br>
+Gparted will copy UUID, and Windows will boot again. </br>
+Windows verify Partition UUID, HDD Brand & Serial Number at Boot.  </br>
+but is Not as Easy... </br>
 you need to create a Windows Recovery USB drive in another machine, </br>
-or download the install .iso, and create a USB with Rufus or Windows Creator Tool. </br>
-to enter recovery cmd </br>
+or download the install .iso, and create a USB installer with Rufus or Windows Creator Tool. </br>
+to enter recovery cmd, and recreate the bcdboot partition, fixmbr, etc... </br>
 diskpart  </br>
 list disk  </br>
 list volume </br>
