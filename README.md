@@ -135,6 +135,11 @@ if you have OEM. </p>
 
 if you have RETAIL, the Nightmare Continues. </p>
 if you have OEM, you need the perfect installer .iso  </br>
+Retail Key will Not Activate OEM iso, needs Clean install Again. </br>
+OEM Key will Not Activate Retail iso, needs Clean install Again. </br>
+same with other versions. </p>
+Key and installer need to be compatible, are locked. </p>
+
 usually old machines like HP Stream 7 requires a OEM iso with Bing </br>
 that iso does Not have the Upgrade problem of the Retail ISO </p>
 
