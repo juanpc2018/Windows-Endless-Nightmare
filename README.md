@@ -17,15 +17,14 @@ will Damage windows. </br>
 VMware for OSX, and Parallels for OSX, </br>
 are a different machine, and fool Windows Activation Maganer that is Activated. </br>
 like a Legal Windows "Pirate" Activator. </br>
-But if you Reboot in Bootcamp "Native Mode",  </br>
+but is Not permanent, is Temporal, Only works as long you pay / buy VMware or Parallels. </br>
+if you Reboot in Bootcamp "Native Mode",  </br>
 if you install both Parallels and VMware Fusion Player, </br>
 Windows will Go Crazy. </p>
 
-Windows will Activate a Self-Defense Mechanism.. </p>
-
+Windows will Activate a Self-Defense Mechanism.. </br>
 Refreshing the PC, does Not work. </br>
-Reseting the PC, does Not work. </p>
-
+Reseting the PC, does Not work. </br>
 Needs a Clean install. </p>
 
 Problem #3. </p>
