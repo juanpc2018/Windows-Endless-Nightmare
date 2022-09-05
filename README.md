@@ -40,20 +40,93 @@ it will clean the HDD, delete everything, like a spy movie. </p>
 problem is, it will delete also the Windows Activation Keys, </br>
 and important Files. </p>
 
+if you did the steps in wrong order, or forgot something  </br>
+you need Minitoold Partition Recovery software </br>
+will take a lot of time scanning the HDD,  </br>
+but when scanned, recovery the Lost partitions is fast. </br>
+problem is that if your HDD was used for something else in the past </br>
+is will detect also those, </br>
+and if you revover the New HDD PArtition,
+will be Flagged as LBA, Extended Partition.
+and Windows wont boot. </br>
+you need to download Gparted Live USB </br>
+copy the Recovered Partitions to another Drive, </br>
+the 350-500MB bcd partition, </br>
+and the large Primary Partition,  </br>
+delete the old HDD,  </br>
+and copy back as Primary partitions.  </br>
+can also be done shrinling the partitions, but it tales a lot more time "days". </br>
+Windows Remembers the HDD it was installed, and Wont boot if you change HDD. </br>
+Activation Keys will be Deactivated.  </br>
+thats why you need the Original HDD it was installed. </br>
+Gparted will copy UUID, and windows will boot again. </br>
+Windows verify Partition UUID, HDD Brand & Serial Number.  </br>
+but is Not as easu... </br>
+you need to create a Windows Recovery USB drive in another machine, </br>
+or download the install .iso, and create a USB with Rufus or Windows Creator Tool. </br>
+to enter recovery cmd </br>
+diskpart  </br>
+list disk  </br>
+list volume </br>
+sel vol x "the bcdboot partition" </br>
+list volume "to verify is selected with *" </br>
+delete "Never type Clean" </br>
+partition will be deleted ans Free space will increase. </br>
+create partition "again" </br>
+list volume  </br>
+list partition </br>
+to verify  </br>
+format & assing letter to volume / partition  </br>
+type: </br>
+help create  </br>
+help format  </br>
+help assing  </br>
+when created, formatted and assigned a letter: </br>
+list volume  </br>
+exit  </br>
+outside diskpart, type:  </br>
+bcdboot f:\windows /s c: /f BIOS </br>
+f = drive where is Windows  </br>
+c: = drive where the boot partition will be created.
+/f ALL has problems with DUET bootloader, with Mac UEFI.  </br>
+/f UEFI or /f BIOS,  </br>
+you can run /UEFI in old BIOS machines with DUET Bootloader, but is Not 100% effective. </br>
+if you have an older machione or Mac /f BIOS </br>
+if you move windows to a New Machione, Needs Boot mode Legacy to boot BIOS, </br>
+or create bcdboot again with /f UEFI  </p>
+
+you mey also need other: </br>
+bcdboot commands, like:
+bcdboot fixmbr </p>
+
+After all that, Windows will Boot again,
+but if you try to create a USB Recovery Drive or make System Image Backup and FAIL.  </br>
+you need copy important files manually out,  </br>
+and Deactivate Windows Activation Key Licence. </br>
+to clean install again Windows from USB .iso and Download again all Updates. </p>
+
 when Windows Defense is Activated, </br>
 does Not allow to Create a USB Recovery Drive, </br>
 does Not allow to create a System Image Backup. </br>
 You are Doomed. </p>
+DSIM /Online /RestoreHealth does Not work, even if Finish Ok with No errors. </br>
+sfc /scannow also does Not work, will finish Ok No error. </p>
+Windows Jail </p>
 
 IF Windows is Retail version... </br>
-Allow to Move/Transfer the license, </br>
-if its OEM, you need to buy a New License. </p>
+Allows to Move the hdd and reactivate  </br>
+or Transfer the license to a clean isntall </br>
+if its OEM, is machine locked, 
+you need to buy a New License if you move windows to another machine. </p>
+but can be reinstalled in the same machine, if hardware does Not change. </p>
+most OEM keys are in the UEFI of Newer machines since 2013 </br>
+older machines with BIOS only, keys are in a paper outside. </p>
 
 cmd </br>
-slmgr -dli </p>
+slmgr -dli "will reveal your future." </p>
 
-will reveal if the License is RETAIL or OWM. </br>
-if you have OEM better install Linux. </p>
+reveals if the Activated License is RETAIL or OEM. </br>
+if you have OEM. </p>
 
 if you have RETAIL, the Nightmare Continues. </p>
 
