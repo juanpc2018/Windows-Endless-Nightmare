@@ -154,15 +154,16 @@ i strongly Recomend Clean installing Windows on a VirtualMachine VHD VHDX, </br>
 VHDX can be attached to bcdboot drive, as a Real Drive. </br>
 you can use a Virtual Drive as a Real Native... </p>
 
+https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-to-vhd--native-boot--add-a-virtual-hard-disk-to-the-boot-menu?view=windows-11
+</p>
 Installing 100% Native is inferior. "The method most people use". </p>
 
 some people claim Windows Runs Faster in Virtual Machine. </br>
 thats for another topic. </p>
 
-
 IF you have Windows8.1 .iso </br>
-Windows Update Manager that comes, does Not work... </br>
-you need to download a KB with a Newer Version. </p>
+Windows Update Manager does Not work... </br>
+you need to download a KB with a Newer manager Version. </p>
 
 here is for Win8 and Server 2012 R1 </br>
 https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/update-windows-update-agent </br>
