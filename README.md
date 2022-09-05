@@ -15,7 +15,7 @@ Works ok, </br>
 BUT... if you reboot in Normal Bootcamp mode, </br>
 will Damage windows. </br>
 VMware for OSX, and Parallels for OSX, </br>
-are a different machine, and fool Windows Software Licencing Activation Maganer that is Activated. </br>
+are a different machine, and fool Windows Activation Maganer that is Activated. </br>
 like a Legal Windowws "Pirate" Activator. </br>
 But if you Reboot in Bootcamp "Native Mode",  </br>
 if you install both Parallels and VMware Fusion Player, </br>
