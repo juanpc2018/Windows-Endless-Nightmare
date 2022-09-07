@@ -8,6 +8,7 @@ sfc /scannow did Not work, </br>
 DISM /online-cleanup did Not work,  </br>
 Deleting Windows did Not work</br>
 Because the problem are some KB "Updates" from 2022 that cannot be Uninstalled, </br>
+
 The latest 4x 2022 Updates, 2x can be Unsinstalled, 2x cannot, 1 says it can, but Fails to Uninstall,</br>
 the other does Not have Uninstall button. </p>
 
@@ -30,6 +31,11 @@ that same update is invisible, if you have a 2010 x58 machine. BEWARE!</p>
 MS is using coercion against all W8.1 owners, to Buy W10/W11, before Extended Support Ends.</br>
 at a gun point if they could.</br>
 if you want to read all the time MS made me waste chasing problems they create, continue reading. </br>
+
+This is when you regret being a legal owner of Windows.</br>
+Windows is No more for me, i will Never buy Windows again,</br>
+i have some legal licenses, i will install them on a .VHD without the dangerous KB, and forget about Windows.</br>
+i cant take this bully anymore. </p>
 
 
 
