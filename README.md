@@ -20,9 +20,10 @@ Alternate use your Real Key but Deactivate before Going Online to Update. </br>
 Win8.1 will allow to update without Key to a point before EDGE Browser Era. </br>
 after complete Download, you need a real Key to Download the Updates After EDGE, </br>
 Set Updates to Download & Do Not Install.</br>
-install 1 by 1, slowly, test 1 day each, </br> to find the Dangerous "Updates" </br>
+install 1 by 1, slowly, test 1 per day, </br> 
+to find the Dangerous "Updates" </br>
 there is an "Update" that does not let you see the screen if you have a Newer machine z270.</br>
-but that update is invisible, if you have an old 2010 x58 machine. BEWARE!</p>
+that same update is invisible, if you have a 2010 x58 machine. BEWARE!</p>
 
 if you want to read all the things MS made me do to waste time, continue reading.</br>
 ------------
