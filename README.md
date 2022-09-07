@@ -16,9 +16,11 @@ coercion against the civilian, called in the Nurember Code.</p>
 
 IF you want to install W8.1x64</br>
 use a generic/emergency key, it will allow to install, and will disapear as soon you go online,
+Alternate use your Real Key but Deactivate before Going Online to Update. </br>
 Win8.1 will allow to update without Key to a point before EDGE Browser Era. </br>
-after that you need a real Key, but... set Updates to Download but Do Not Install.</br>
-install 1 by 1, slowly, test 1 day each minimum, </br>
+after complete Download, you need a real Key to Download the Updates After EDGE, </br>
+Set Updates to Download & Do Not Install.</br>
+install 1 by 1, slowly, test 1 day each, </br> to find the Dangerous "Updates" </br>
 there is an "Update" that does not let you see the screen if you have a Newer machine z270.</br>
 but that update is invisible, if you have an old 2010 x58 machine. BEWARE!</p>
 
