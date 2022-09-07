@@ -1,5 +1,30 @@
 # Windows-Endless-Nightmare </p>
 
+Problem #0.</br>
+i deleted my HDD, because i could Not make a System Image Backup or create a USB Recovery Drive, i thought Windows was damaged </br>
+Refreshing windows did Not work, </br>
+Reseting windows did Not work.</br>
+Deleting Windows did Not solved the issue,</br>
+Because the problem are some KB "Updates" from 2022 that cannot be Uninstalled, </br>
+The latest 4x 2022 Updates, 2x can be Unsinstalled, 2x cannot, 1 says it can, but Fails to Uninstall,</br>
+the other does Not have Uninstall button. </p>
+
+There are 100 KB Updates since 2014 for Windows8.1, </br>
+None of the 2014 can be Uninstalled, because earlt Windows8.1 had many Errors & Conflics.</br>
+2 or more KB "Updates" are very agressive, against the owner/user, against freedom, against private property, against privacy, total control of your machine, </br>
+coercion against the civilian, called in the Nurember Code.</p>
+
+IF you want to install W8.1x64</br>
+use a generic/emergency key, it will allow to install, and will disapear as soon you go online,
+Win8.1 will allow to update without Key to a point before EDGE Browser Era. </br>
+after that you need a real Key, but... set Updates to Download but Do Not Install.</br>
+install 1 by 1, slowly, test 1 day each minimum, </br>
+there is an "Update" that does not let you see the screen if you have a Newer machine z270.</br>
+but that update is invisible, if you have an old 2010 x58 machine. BEWARE!</p>
+
+if you want to read all the things MS made me do to waste time, continue reading.</br>
+------------
+
 Problem #1. VMware </br>
 There are 2 host versions, ESXi is for "Native/No HostOS" like Proxmox, or bcdboot.</br>
 VMware Fusion Player 12.1.2 for OSX Catalina </br>
