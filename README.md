@@ -10,7 +10,7 @@ The latest 4x 2022 Updates, 2x can be Unsinstalled, 2x cannot, 1 says it can, bu
 the other does Not have Uninstall button. </p>
 
 There are 100 KB Updates since 2014 for Windows8.1, </br>
-None of the 2014 can be Uninstalled, because earlt Windows8.1 had many Errors & Conflics.</br>
+None of the 2014 can be Uninstalled, because early Windows8.1 had many Errors & Conflics with Fast Boot, Power Settings & Time.</br>
 2 or more KB "Updates" are very agressive, against the owner/user, against freedom, against private property, against privacy, total control of your machine, </br>
 coercion against the civilian, called in the Nurember Code.</p>
 
