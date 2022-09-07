@@ -27,7 +27,12 @@ to find the Dangerous "Updates" </br>
 there is an "Update" that does not let you see the screen if you have a Newer machine z270.</br>
 that same update is invisible, if you have a 2010 x58 machine. BEWARE!</p>
 
-if you want to read all the things MS made me do to waste time, continue reading.</br>
+MS is using coercion against all W8.1 owners, to Buy W10/W11, before Extended Support Ends.</br>
+at a gun point if they could.</br>
+if you want to read all the time MS made me waste chasing problems they create, continue reading. </br>
+
+
+
 ------------
 
 Problem #1. VMware </br>
