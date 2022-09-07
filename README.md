@@ -4,7 +4,9 @@ Problem #0.</br>
 i deleted my HDD, because i could Not make a System Image Backup or create a USB Recovery Drive, i thought Windows was damaged </br>
 Refreshing windows did Not work, </br>
 Reseting windows did Not work.</br>
-Deleting Windows did Not solved the issue,</br>
+sfc /scannow did Not work, </br>
+DISM /online-cleanup did Not work,  </br>
+Deleting Windows did Not work</br>
 Because the problem are some KB "Updates" from 2022 that cannot be Uninstalled, </br>
 The latest 4x 2022 Updates, 2x can be Unsinstalled, 2x cannot, 1 says it can, but Fails to Uninstall,</br>
 the other does Not have Uninstall button. </p>
